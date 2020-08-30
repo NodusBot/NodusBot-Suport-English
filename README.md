@@ -13,7 +13,7 @@ Our team has 4 dev's and 2 promoters being;
 
 **Ricky (CEO)**
 
-**Samuel(CEO) **
+**Samuel(CEO)**
 
 ### Publishers
 
