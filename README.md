@@ -1,9 +1,9 @@
-##Welcome to my support in English
+## Welcome to my support in English
 
 We hope you have the best experience with our BOT, we developed it with great care.
 
 
-###Dev's
+### Dev's
 
 Our team has 4 dev's and 2 promoters being;
 
@@ -22,10 +22,10 @@ Our team has 4 dev's and 2 promoters being;
 **Duke (Div)**
 
 
-###Our Support (Commands)
+### Our Support (Commands)
 
 
-``Commands
+```Commands
 
 nd!help: This command shows all other BOT commands.
 nd!pause: Pause the current song.
@@ -36,7 +36,7 @@ nd!stop: For the current song.
 nd!vol: Adjusts the volume between 0 and 10.
 nd!more: For more information.
 
-``
+```
 
 
 ### About BOT
@@ -46,9 +46,11 @@ nd!more: For more information.
 **Remember that I'm in BETA phase!**
 
 
-###Support and contact.
+### Support and contact.
 
 Our **Support** via email: nodusbotsuport@gmail.com
 
 
 Our **Support** via discord [discord](https://discord.gg/wUrqFhF)
+
+Suport in [Portuguese](https://bit.ly/32F5TJh)
