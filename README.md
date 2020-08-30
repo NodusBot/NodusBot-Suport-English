@@ -7,19 +7,19 @@ We hope you have the best experience with our BOT, we developed it with great ca
 
 Our team has 4 dev's and 2 promoters being;
 
-** Miguel (CEO) **
+**Miguel (CEO)**
 
-** Flavio (CEO) **
+**Flavio (CEO)**
 
-** Ricky (CEO) **
+**Ricky (CEO)**
 
-** Samuel (CEO) **
+**Samuel(CEO) **
 
 ### Publishers
 
-** Allan (Div) **
+**Allan (Div)**
 
-** Duke (Div) **
+**Duke (Div)**
 
 
 ### Our Support (Commands)
