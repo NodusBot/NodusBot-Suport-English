@@ -5,7 +5,7 @@ We hope you have the best experience with our BOT, we developed it with great ca
 
 ### Dev's
 
-Our team has 4 dev's and 2 promoters being;
+Our team has 4 dev's and 2 publishers being;
 
 **Miguel (CEO)**
 
@@ -13,7 +13,7 @@ Our team has 4 dev's and 2 promoters being;
 
 **Ricky (CEO)**
 
-**Samuel(CEO)**
+**Samuel (CEO)**
 
 ### Publishers
 
