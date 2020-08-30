@@ -19,7 +19,7 @@ Our team has 4 dev's and 2 promoters being;
 
 **Allan (Div)**
 
-**Duke (Div)**
+**Duque (Div)**
 
 
 ### Our Support (Commands)
