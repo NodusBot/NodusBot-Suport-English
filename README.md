@@ -15,6 +15,10 @@ Our team has 4 dev's and 2 publishers being;
 
 **Samuel (CEO)**
 
+### Managers
+
+**Caleb ( MAN )**
+
 ### Publishers
 
 **Allan (Div)**
